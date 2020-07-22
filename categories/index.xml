@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://xiaoyujinghe.github.io/categories/</link>
-      <atom:link href="https://xiaoyujinghe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rsoj.github.io/categories/</link>
+      <atom:link href="https://rsoj.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sun, 07 Jun 2020 16:43:13 +0800</lastBuildDate>
     <image>
-      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://xiaoyujinghe.github.io/categories/</link>
+      <link>https://rsoj.github.io/categories/</link>
     </image>
     
   </channel>
