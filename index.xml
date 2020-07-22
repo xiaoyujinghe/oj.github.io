@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://rsoj.github.io/</link>
-      <atom:link href="https://rsoj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaoyujinghe.github.io/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>X-Lab - 技术传播文明，践行同步世界</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>X-Lab - 技术传播文明，践行同步世界</title>
-      <link>https://rsoj.github.io/</link>
+      <link>https://xiaoyujinghe.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://rsoj.github.io/courses/example/example1/</link>
+      <link>https://xiaoyujinghe.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://rsoj.github.io/courses/example/example1/</guid>
+      <guid>https://xiaoyujinghe.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://rsoj.github.io/courses/example/example2/</link>
+      <link>https://xiaoyujinghe.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://rsoj.github.io/courses/example/example2/</guid>
+      <guid>https://xiaoyujinghe.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://rsoj.github.io/talk/example/</link>
+      <link>https://xiaoyujinghe.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/talk/example/</guid>
+      <guid>https://xiaoyujinghe.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>Writing Technical Content in Academic</title>
-      <link>https://rsoj.github.io/post/writing-technical-content/</link>
+      <link>https://xiaoyujinghe.github.io/post/writing-technical-content/</link>
       <pubDate>Sun, 07 Jun 2020 16:43:13 +0800</pubDate>
-      <guid>https://rsoj.github.io/post/writing-technical-content/</guid>
+      <guid>https://xiaoyujinghe.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -312,9 +312,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://rsoj.github.io/post/jupyter/</link>
+      <link>https://xiaoyujinghe.github.io/post/jupyter/</link>
       <pubDate>Sun, 07 Jun 2020 16:33:21 +0800</pubDate>
-      <guid>https://rsoj.github.io/post/jupyter/</guid>
+      <guid>https://xiaoyujinghe.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -361,25 +361,25 @@ date: 2019-09-01
     
     <item>
       <title>GitCourse</title>
-      <link>https://rsoj.github.io/project/gitcourse/</link>
+      <link>https://xiaoyujinghe.github.io/project/gitcourse/</link>
       <pubDate>Sat, 06 Jun 2020 14:41:40 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/gitcourse/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/gitcourse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypertrons</title>
-      <link>https://rsoj.github.io/project/hypertrons/</link>
+      <link>https://xiaoyujinghe.github.io/project/hypertrons/</link>
       <pubDate>Fri, 05 Jun 2020 14:02:35 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/hypertrons/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/hypertrons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://rsoj.github.io/project/internal-project/</link>
+      <link>https://xiaoyujinghe.github.io/project/internal-project/</link>
       <pubDate>Mon, 01 Jun 2020 17:05:58 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/internal-project/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -390,17 +390,17 @@ date: 2019-09-01
     
     <item>
       <title>External Project</title>
-      <link>https://rsoj.github.io/project/external-project/</link>
+      <link>https://xiaoyujinghe.github.io/project/external-project/</link>
       <pubDate>Sat, 30 May 2020 17:14:49 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/external-project/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>十大经典排序算法整理汇总</title>
-      <link>https://rsoj.github.io/post/sort-algorithm/</link>
+      <link>https://xiaoyujinghe.github.io/post/sort-algorithm/</link>
       <pubDate>Fri, 29 May 2020 20:46:57 +0800</pubDate>
-      <guid>https://rsoj.github.io/post/sort-algorithm/</guid>
+      <guid>https://xiaoyujinghe.github.io/post/sort-algorithm/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;本文整理并总结了十大经典的排序算法（冒泡排序、选择排序、插入排序、快速排序、归并排序、希尔排序、计数排序、基数排序、桶排序、堆排序）的时间复杂度、空间复杂度等性质。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本文并不会详细讲解每种排序算法的原理&lt;/strong&gt;，网上有很多很好的教程，大家可以自己去搜了看。&lt;/p&gt;
@@ -781,49 +781,49 @@ public:
     
     <item>
       <title>Harmalysis: A Language for the Annotation of Roman Numerals in Symbolic Music Representations</title>
-      <link>https://rsoj.github.io/publication/harmalysis/</link>
+      <link>https://xiaoyujinghe.github.io/publication/harmalysis/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/harmalysis/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/harmalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do-Re-Myth: An Ear Training Game</title>
-      <link>https://rsoj.github.io/publication/doremyth/</link>
+      <link>https://xiaoyujinghe.github.io/publication/doremyth/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/doremyth/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/doremyth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key-Finding Based on a Hidden Markov Model and Key Profiles</title>
-      <link>https://rsoj.github.io/publication/keydetection19/</link>
+      <link>https://xiaoyujinghe.github.io/publication/keydetection19/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/keydetection19/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/keydetection19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of Translation Between Symbolic Music Formats: A Case Study with Humdrum, Lilypond, MEI, and MusicXML</title>
-      <link>https://rsoj.github.io/publication/effects_of_translation/</link>
+      <link>https://xiaoyujinghe.github.io/publication/effects_of_translation/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/effects_of_translation/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/effects_of_translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musical Tic-Tac-Toe</title>
-      <link>https://rsoj.github.io/publication/musical_tictactoe/</link>
+      <link>https://xiaoyujinghe.github.io/publication/musical_tictactoe/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/musical_tictactoe/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/musical_tictactoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dandelot - Reading Music as a Game</title>
-      <link>https://rsoj.github.io/publication/dandelot/</link>
+      <link>https://xiaoyujinghe.github.io/publication/dandelot/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/dandelot/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/dandelot/</guid>
       <description>&lt;h2 id=&#34;the-video-looks-promising-where-is-the-code&#34;&gt;The video looks promising, where is the code?&lt;/h2&gt;
 &lt;p&gt;Although the intention of &lt;em&gt;dandelot&lt;/em&gt; is to be available for free for anyone to play, some of the assets used for developing the game are proprietary. For the time being, the code is not available online.&lt;/p&gt;
 &lt;p&gt;If you &lt;strong&gt;really&lt;/strong&gt; want to play it, drop an email and I will send you a compiled version of the game. If you want the code to extend it or fork it into your own, we can talk about that.&lt;/p&gt;
@@ -832,9 +832,9 @@ public:
     
     <item>
       <title>Slides</title>
-      <link>https://rsoj.github.io/slides/example/</link>
+      <link>https://xiaoyujinghe.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/slides/example/</guid>
+      <guid>https://xiaoyujinghe.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -966,9 +966,9 @@ Three
     
     <item>
       <title>Implementing a digital model of the Boss DS-1 distortion pedal</title>
-      <link>https://rsoj.github.io/docs/mumt618/</link>
+      <link>https://xiaoyujinghe.github.io/docs/mumt618/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0800</pubDate>
-      <guid>https://rsoj.github.io/docs/mumt618/</guid>
+      <guid>https://xiaoyujinghe.github.io/docs/mumt618/</guid>
       <description>&lt;p&gt;This is a report for my final project of the 
 &lt;a href=&#34;https://www.music.mcgill.ca/~gary/618/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MUMT 618: Computational Modeling of Musical Acoustic Systems&lt;/a&gt; class at McGill University.&lt;/p&gt;
 &lt;p&gt;I will describe my experience implementing a digital model of distortion that has been presented in the paper titled &lt;em&gt;&amp;ldquo;Simplified, physically-informed models of distortion and overdrive guitar effects pedals&amp;rdquo;&lt;/em&gt;, presented in 2007 by David Yeh, Jonathan Abel, and Julius Smith at the DAFx&#39;07 Conference.&lt;/p&gt;
@@ -1000,10 +1000,10 @@ Three
 &lt;figure id=&#34;figure-overview-of-the-boss-ds-1-model-obtained-from-yeh-et-al-2007&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/overview.png&#34; data-caption=&#34;Overview of the Boss DS-1 model, obtained from Yeh et al. (2007)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/overview.png&#34; data-caption=&#34;Overview of the Boss DS-1 model, obtained from Yeh et al. (2007)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/overview.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/overview.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1039,10 +1039,10 @@ Three
 &lt;figure id=&#34;figure-schematic-of-the-boss-ds-1-obtained-from-electrosmashcom&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/schematic.jpg&#34; data-caption=&#34;Schematic of the Boss DS-1, obtained from ElectroSmash.com&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/schematic.jpg&#34; data-caption=&#34;Schematic of the Boss DS-1, obtained from ElectroSmash.com&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/schematic.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/schematic.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1181,10 +1181,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-implemented-transistor-booster-stage-uncorrected&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/original_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (uncorrected)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/original_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (uncorrected)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/original_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/original_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1218,10 +1218,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-transistor-booster-stage-shown-at-yeh-et-al-2007&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the Transistor Booster Stage shown at Yeh et al. (2007)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the Transistor Booster Stage shown at Yeh et al. (2007)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1263,10 +1263,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-implemented-transistor-booster-stage-corrected&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (corrected)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (corrected)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1389,10 +1389,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-implemented-op-amp-gain-stage&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/opamp_original.png&#34; data-caption=&#34;Magnitude response of the implemented Op-Amp Gain Stage&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_original.png&#34; data-caption=&#34;Magnitude response of the implemented Op-Amp Gain Stage&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/opamp_original.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_original.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1426,10 +1426,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-op-amp-gain-stage-shown-at-yeh-et-al-2007&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/opamp_paper.png&#34; data-caption=&#34;Magnitude response of the Op-Amp Gain Stage shown at Yeh et al. (2007)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_paper.png&#34; data-caption=&#34;Magnitude response of the Op-Amp Gain Stage shown at Yeh et al. (2007)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/opamp_paper.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_paper.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1522,10 +1522,10 @@ s = audioplayer(y, fs);
 play(s);
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Here is an example of the model applied to an audio sample of a clean electric guitar&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/guitar_clean.wav&#34;&gt;Original audio&lt;/a&gt; $ $&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/bjt.wav&#34;&gt;Transistor Booster Stage only&lt;/a&gt; $ $&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/opamp.wav&#34;&gt;Op-Amp Gain Stage only&lt;/a&gt; $ $&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/bjt_opamp.wav&#34;&gt;Transistor Booster Stage and Op-Amp Gain Stage&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/guitar_clean.wav&#34;&gt;Original audio&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/bjt.wav&#34;&gt;Transistor Booster Stage only&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/opamp.wav&#34;&gt;Op-Amp Gain Stage only&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/bjt_opamp.wav&#34;&gt;Transistor Booster Stage and Op-Amp Gain Stage&lt;/a&gt; $ $&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1540,17 +1540,17 @@ play(s);
     
     <item>
       <title>Encoding Matters</title>
-      <link>https://rsoj.github.io/publication/encoding_matters/</link>
+      <link>https://xiaoyujinghe.github.io/publication/encoding_matters/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/encoding_matters/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/encoding_matters/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rsoj.github.io/docs/backup/</link>
+      <link>https://xiaoyujinghe.github.io/docs/backup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/docs/backup/</guid>
+      <guid>https://xiaoyujinghe.github.io/docs/backup/</guid>
       <description>&lt;h2 id=&#34;representative-journal-papers&#34;&gt;Representative Journal Papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Partitioning big graph with respect to arbitrary proportions in a streaming manner, Future Generation Computer Systems, 2018, 80(3): 1-11.&lt;/li&gt;

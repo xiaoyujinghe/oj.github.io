@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>liuchang | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://rsoj.github.io/author/liuchang/</link>
-      <atom:link href="https://rsoj.github.io/author/liuchang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaoyujinghe.github.io/author/liuchang/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/author/liuchang/index.xml" rel="self" type="application/rss+xml" />
     <description>liuchang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sat, 06 Jun 2020 14:41:40 +0800</lastBuildDate>
     <image>
-      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>liuchang</title>
-      <link>https://rsoj.github.io/author/liuchang/</link>
+      <link>https://xiaoyujinghe.github.io/author/liuchang/</link>
     </image>
     
     <item>
       <title>GitCourse</title>
-      <link>https://rsoj.github.io/project/gitcourse/</link>
+      <link>https://xiaoyujinghe.github.io/project/gitcourse/</link>
       <pubDate>Sat, 06 Jun 2020 14:41:40 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/gitcourse/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/gitcourse/</guid>
       <description></description>
     </item>
     
