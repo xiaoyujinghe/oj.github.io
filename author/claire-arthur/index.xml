@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claire Arthur | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://rsoj.github.io/author/claire-arthur/</link>
-      <atom:link href="https://rsoj.github.io/author/claire-arthur/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaoyujinghe.github.io/author/claire-arthur/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/author/claire-arthur/index.xml" rel="self" type="application/rss+xml" />
     <description>Claire Arthur</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>Claire Arthur</title>
-      <link>https://rsoj.github.io/author/claire-arthur/</link>
+      <link>https://xiaoyujinghe.github.io/author/claire-arthur/</link>
     </image>
     
     <item>
       <title>Key-Finding Based on a Hidden Markov Model and Key Profiles</title>
-      <link>https://rsoj.github.io/publication/keydetection19/</link>
+      <link>https://xiaoyujinghe.github.io/publication/keydetection19/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/keydetection19/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/keydetection19/</guid>
       <description></description>
     </item>
     

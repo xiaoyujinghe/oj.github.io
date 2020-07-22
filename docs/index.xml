@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://rsoj.github.io/docs/</link>
-      <atom:link href="https://rsoj.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaoyujinghe.github.io/docs/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>Overview</title>
-      <link>https://rsoj.github.io/docs/</link>
+      <link>https://xiaoyujinghe.github.io/docs/</link>
     </image>
     
     <item>
       <title>Implementing a digital model of the Boss DS-1 distortion pedal</title>
-      <link>https://rsoj.github.io/docs/mumt618/</link>
+      <link>https://xiaoyujinghe.github.io/docs/mumt618/</link>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0800</pubDate>
-      <guid>https://rsoj.github.io/docs/mumt618/</guid>
+      <guid>https://xiaoyujinghe.github.io/docs/mumt618/</guid>
       <description>&lt;p&gt;This is a report for my final project of the 
 &lt;a href=&#34;https://www.music.mcgill.ca/~gary/618/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MUMT 618: Computational Modeling of Musical Acoustic Systems&lt;/a&gt; class at McGill University.&lt;/p&gt;
 &lt;p&gt;I will describe my experience implementing a digital model of distortion that has been presented in the paper titled &lt;em&gt;&amp;ldquo;Simplified, physically-informed models of distortion and overdrive guitar effects pedals&amp;rdquo;&lt;/em&gt;, presented in 2007 by David Yeh, Jonathan Abel, and Julius Smith at the DAFx&#39;07 Conference.&lt;/p&gt;
@@ -48,10 +48,10 @@
 &lt;figure id=&#34;figure-overview-of-the-boss-ds-1-model-obtained-from-yeh-et-al-2007&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/overview.png&#34; data-caption=&#34;Overview of the Boss DS-1 model, obtained from Yeh et al. (2007)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/overview.png&#34; data-caption=&#34;Overview of the Boss DS-1 model, obtained from Yeh et al. (2007)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/overview.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/overview.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -87,10 +87,10 @@
 &lt;figure id=&#34;figure-schematic-of-the-boss-ds-1-obtained-from-electrosmashcom&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/schematic.jpg&#34; data-caption=&#34;Schematic of the Boss DS-1, obtained from ElectroSmash.com&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/schematic.jpg&#34; data-caption=&#34;Schematic of the Boss DS-1, obtained from ElectroSmash.com&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/schematic.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/schematic.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -229,10 +229,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-implemented-transistor-booster-stage-uncorrected&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/original_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (uncorrected)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/original_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (uncorrected)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/original_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/original_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -266,10 +266,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-transistor-booster-stage-shown-at-yeh-et-al-2007&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the Transistor Booster Stage shown at Yeh et al. (2007)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the Transistor Booster Stage shown at Yeh et al. (2007)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -311,10 +311,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-implemented-transistor-booster-stage-corrected&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (corrected)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; data-caption=&#34;Magnitude response of the implemented Transistor Booster Stage (corrected)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/corrected_plot_bjt.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -437,10 +437,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-implemented-op-amp-gain-stage&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/opamp_original.png&#34; data-caption=&#34;Magnitude response of the implemented Op-Amp Gain Stage&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_original.png&#34; data-caption=&#34;Magnitude response of the implemented Op-Amp Gain Stage&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/opamp_original.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_original.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -474,10 +474,10 @@ $$&lt;/p&gt;
 &lt;figure id=&#34;figure-magnitude-response-of-the-op-amp-gain-stage-shown-at-yeh-et-al-2007&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rsoj.github.io/img/mumt618/opamp_paper.png&#34; data-caption=&#34;Magnitude response of the Op-Amp Gain Stage shown at Yeh et al. (2007)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_paper.png&#34; data-caption=&#34;Magnitude response of the Op-Amp Gain Stage shown at Yeh et al. (2007)&#34;&gt;
 
 
-  &lt;img src=&#34;https://rsoj.github.io/img/mumt618/opamp_paper.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://xiaoyujinghe.github.io/img/mumt618/opamp_paper.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -570,10 +570,10 @@ s = audioplayer(y, fs);
 play(s);
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Here is an example of the model applied to an audio sample of a clean electric guitar&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/guitar_clean.wav&#34;&gt;Original audio&lt;/a&gt; $ $&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/bjt.wav&#34;&gt;Transistor Booster Stage only&lt;/a&gt; $ $&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/opamp.wav&#34;&gt;Op-Amp Gain Stage only&lt;/a&gt; $ $&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://rsoj.github.io/audio/mumt618/bjt_opamp.wav&#34;&gt;Transistor Booster Stage and Op-Amp Gain Stage&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/guitar_clean.wav&#34;&gt;Original audio&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/bjt.wav&#34;&gt;Transistor Booster Stage only&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/opamp.wav&#34;&gt;Op-Amp Gain Stage only&lt;/a&gt; $ $&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiaoyujinghe.github.io/audio/mumt618/bjt_opamp.wav&#34;&gt;Transistor Booster Stage and Op-Amp Gain Stage&lt;/a&gt; $ $&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -588,9 +588,9 @@ play(s);
     
     <item>
       <title></title>
-      <link>https://rsoj.github.io/docs/backup/</link>
+      <link>https://xiaoyujinghe.github.io/docs/backup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/docs/backup/</guid>
+      <guid>https://xiaoyujinghe.github.io/docs/backup/</guid>
       <description>&lt;h2 id=&#34;representative-journal-papers&#34;&gt;Representative Journal Papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Partitioning big graph with respect to arbitrary proportions in a streaming manner, Future Generation Computer Systems, 2018, 80(3): 1-11.&lt;/li&gt;

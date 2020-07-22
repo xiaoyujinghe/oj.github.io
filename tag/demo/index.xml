@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>demo | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://rsoj.github.io/tag/demo/</link>
-      <atom:link href="https://rsoj.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaoyujinghe.github.io/tag/demo/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>demo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Mon, 01 Jun 2020 17:05:58 +0800</lastBuildDate>
     <image>
-      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>demo</title>
-      <link>https://rsoj.github.io/tag/demo/</link>
+      <link>https://xiaoyujinghe.github.io/tag/demo/</link>
     </image>
     
     <item>
       <title>Internal Project</title>
-      <link>https://rsoj.github.io/project/internal-project/</link>
+      <link>https://xiaoyujinghe.github.io/project/internal-project/</link>
       <pubDate>Mon, 01 Jun 2020 17:05:58 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/internal-project/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -27,57 +27,57 @@
     
     <item>
       <title>External Project</title>
-      <link>https://rsoj.github.io/project/external-project/</link>
+      <link>https://xiaoyujinghe.github.io/project/external-project/</link>
       <pubDate>Sat, 30 May 2020 17:14:49 +0800</pubDate>
-      <guid>https://rsoj.github.io/project/external-project/</guid>
+      <guid>https://xiaoyujinghe.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harmalysis: A Language for the Annotation of Roman Numerals in Symbolic Music Representations</title>
-      <link>https://rsoj.github.io/publication/harmalysis/</link>
+      <link>https://xiaoyujinghe.github.io/publication/harmalysis/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/harmalysis/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/harmalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do-Re-Myth: An Ear Training Game</title>
-      <link>https://rsoj.github.io/publication/doremyth/</link>
+      <link>https://xiaoyujinghe.github.io/publication/doremyth/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/doremyth/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/doremyth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key-Finding Based on a Hidden Markov Model and Key Profiles</title>
-      <link>https://rsoj.github.io/publication/keydetection19/</link>
+      <link>https://xiaoyujinghe.github.io/publication/keydetection19/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/keydetection19/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/keydetection19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of Translation Between Symbolic Music Formats: A Case Study with Humdrum, Lilypond, MEI, and MusicXML</title>
-      <link>https://rsoj.github.io/publication/effects_of_translation/</link>
+      <link>https://xiaoyujinghe.github.io/publication/effects_of_translation/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/effects_of_translation/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/effects_of_translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musical Tic-Tac-Toe</title>
-      <link>https://rsoj.github.io/publication/musical_tictactoe/</link>
+      <link>https://xiaoyujinghe.github.io/publication/musical_tictactoe/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/musical_tictactoe/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/musical_tictactoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dandelot - Reading Music as a Game</title>
-      <link>https://rsoj.github.io/publication/dandelot/</link>
+      <link>https://xiaoyujinghe.github.io/publication/dandelot/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/dandelot/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/dandelot/</guid>
       <description>&lt;h2 id=&#34;the-video-looks-promising-where-is-the-code&#34;&gt;The video looks promising, where is the code?&lt;/h2&gt;
 &lt;p&gt;Although the intention of &lt;em&gt;dandelot&lt;/em&gt; is to be available for free for anyone to play, some of the assets used for developing the game are proprietary. For the time being, the code is not available online.&lt;/p&gt;
 &lt;p&gt;If you &lt;strong&gt;really&lt;/strong&gt; want to play it, drop an email and I will send you a compiled version of the game. If you want the code to extend it or fork it into your own, we can talk about that.&lt;/p&gt;
@@ -86,9 +86,9 @@
     
     <item>
       <title>Encoding Matters</title>
-      <link>https://rsoj.github.io/publication/encoding_matters/</link>
+      <link>https://xiaoyujinghe.github.io/publication/encoding_matters/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://rsoj.github.io/publication/encoding_matters/</guid>
+      <guid>https://xiaoyujinghe.github.io/publication/encoding_matters/</guid>
       <description></description>
     </item>
     

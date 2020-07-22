@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://rsoj.github.io/category/technology/</link>
-      <atom:link href="https://rsoj.github.io/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaoyujinghe.github.io/category/technology/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/category/technology/index.xml" rel="self" type="application/rss+xml" />
     <description>technology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sun, 07 Jun 2020 16:43:13 +0800</lastBuildDate>
     <image>
-      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>technology</title>
-      <link>https://rsoj.github.io/category/technology/</link>
+      <link>https://xiaoyujinghe.github.io/category/technology/</link>
     </image>
     
     <item>
       <title>Writing Technical Content in Academic</title>
-      <link>https://rsoj.github.io/post/writing-technical-content/</link>
+      <link>https://xiaoyujinghe.github.io/post/writing-technical-content/</link>
       <pubDate>Sun, 07 Jun 2020 16:43:13 +0800</pubDate>
-      <guid>https://rsoj.github.io/post/writing-technical-content/</guid>
+      <guid>https://xiaoyujinghe.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -248,9 +248,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://rsoj.github.io/post/jupyter/</link>
+      <link>https://xiaoyujinghe.github.io/post/jupyter/</link>
       <pubDate>Sun, 07 Jun 2020 16:33:21 +0800</pubDate>
-      <guid>https://rsoj.github.io/post/jupyter/</guid>
+      <guid>https://xiaoyujinghe.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
