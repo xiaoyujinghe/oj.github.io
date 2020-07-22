@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://xiaoyujinghe.github.io/publication_types/</link>
-      <atom:link href="https://xiaoyujinghe.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rsoj.github.io/publication_types/</link>
+      <atom:link href="https://rsoj.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>Publication_types</title>
-      <link>https://xiaoyujinghe.github.io/publication_types/</link>
+      <link>https://rsoj.github.io/publication_types/</link>
     </image>
     
   </channel>

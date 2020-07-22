@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zhaoshengyu | X-Lab - 技术传播文明，践行同步世界</title>
-    <link>https://xiaoyujinghe.github.io/author/zhaoshengyu/</link>
-      <atom:link href="https://xiaoyujinghe.github.io/author/zhaoshengyu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rsoj.github.io/author/zhaoshengyu/</link>
+      <atom:link href="https://rsoj.github.io/author/zhaoshengyu/index.xml" rel="self" type="application/rss+xml" />
     <description>zhaoshengyu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Fri, 05 Jun 2020 14:02:35 +0800</lastBuildDate>
     <image>
-      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <url>https://rsoj.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
       <title>zhaoshengyu</title>
-      <link>https://xiaoyujinghe.github.io/author/zhaoshengyu/</link>
+      <link>https://rsoj.github.io/author/zhaoshengyu/</link>
     </image>
     
     <item>
       <title>Hypertrons</title>
-      <link>https://xiaoyujinghe.github.io/project/hypertrons/</link>
+      <link>https://rsoj.github.io/project/hypertrons/</link>
       <pubDate>Fri, 05 Jun 2020 14:02:35 +0800</pubDate>
-      <guid>https://xiaoyujinghe.github.io/project/hypertrons/</guid>
+      <guid>https://rsoj.github.io/project/hypertrons/</guid>
       <description></description>
     </item>
     
