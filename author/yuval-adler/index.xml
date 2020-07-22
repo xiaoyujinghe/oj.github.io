@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuval Adler | X-Lab - 技术传播文明，践行同步世界</title>
+    <link>https://xiaoyujinghe.github.io/author/yuval-adler/</link>
+      <atom:link href="https://xiaoyujinghe.github.io/author/yuval-adler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuval Adler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoyujinghe.github.io/images/logo_hu3c9c2141db48b2c8d3d59e689fd883ea_181565_300x300_fit_lanczos_2.png</url>
+      <title>Yuval Adler</title>
+      <link>https://xiaoyujinghe.github.io/author/yuval-adler/</link>
+    </image>
+    
+    <item>
+      <title>Do-Re-Myth: An Ear Training Game</title>
+      <link>https://xiaoyujinghe.github.io/publication/doremyth/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaoyujinghe.github.io/publication/doremyth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
